@@ -17,6 +17,15 @@ docker build -t shsh .
 docker run --rm --net=host shsh
 ```
 
+## Thanks
+
+Without his software, this software would never have appeared.
+
+> Hiroshi SUGIMURA, Kanagawa Institute of Technology
+> 
+> echonet-lite.js
+> https://github.com/Hiroshi-Sugimura/echonet-lite.js
+
 ## Author
 
 - Daisuke SHIGETA a.k.a. @shigepon7
